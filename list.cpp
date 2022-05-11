@@ -191,7 +191,7 @@ void eliminaRepetidos(Tlista &lista, int valor)
  
 void menu1()
 {
-    cout<<"\n\t\tLISTA ENLAZADA SIMPLE\n\n";
+    cout<<"\n\t\tLISTA ESLABONADA SIMPLE\n\n";
     cout<<" 1. INSERTAR AL INICIO               "<<endl;
     cout<<" 2. INSERTAR AL FINAL                "<<endl;
     cout<<" 3. INSERTAR EN UNA POSICION         "<<endl;
